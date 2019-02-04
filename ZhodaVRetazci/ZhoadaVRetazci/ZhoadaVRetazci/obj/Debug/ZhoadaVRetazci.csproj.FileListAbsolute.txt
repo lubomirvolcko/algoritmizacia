@@ -1,0 +1,7 @@
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\obj\Debug\ZhoadaVRetazci.csprojAssemblyReference.cache
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\obj\Debug\ZhoadaVRetazci.csproj.CoreCompileInputs.cache
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\bin\Debug\ZhoadaVRetazci.exe.config
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\bin\Debug\ZhoadaVRetazci.exe
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\bin\Debug\ZhoadaVRetazci.pdb
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\obj\Debug\ZhoadaVRetazci.exe
+D:\SOVY\WEB\Logicke ulohy\ZhodaVRetazci\ZhoadaVRetazci\ZhoadaVRetazci\obj\Debug\ZhoadaVRetazci.pdb

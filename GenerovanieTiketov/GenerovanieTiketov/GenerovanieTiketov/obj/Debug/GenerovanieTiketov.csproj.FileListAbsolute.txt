@@ -1,0 +1,7 @@
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\bin\Debug\GenerovanieTiketov.exe.config
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\bin\Debug\GenerovanieTiketov.exe
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\bin\Debug\GenerovanieTiketov.pdb
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\obj\Debug\GenerovanieTiketov.csprojAssemblyReference.cache
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\obj\Debug\GenerovanieTiketov.csproj.CoreCompileInputs.cache
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\obj\Debug\GenerovanieTiketov.exe
+D:\SOVY\WEB\Logicke ulohy\GenerovanieTiketov\GenerovanieTiketov\GenerovanieTiketov\obj\Debug\GenerovanieTiketov.pdb
